@@ -15,9 +15,7 @@ A Wordpress Plugin that auto completes address using the NZ Post ParcelAddress A
 * Works for both Billing and Shipping addresses
 * Supports the latest version of Wordpress
 
-## Debugging
-
-It doesn't work!
+## Debugging --> It doesn't work?
 
 * Use your inspector to see if it loads the appropriate files (look for parcel_address_plugin.js) NB: it only loads on checkout pages
 * Check in the inspector for Javascript errors, if the API authentication is broken it will tell you
